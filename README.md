@@ -1,6 +1,6 @@
 ## Hi 👋
 
-💬 ## About Me
+💬 About Me
 
 I'm an Android Developer focused on building maintainable, well-structured mobile applications with Kotlin and modern Android technologies.
 
